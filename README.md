@@ -1,6 +1,6 @@
 # Hi, I'm Aashish Bedi 👋  
 
-🎓 B.Tech Computer Science Student | Machine Learning & Big Data Enthusiast | Backend Developer  
+🎓 B.Tech Computer Science Student | Machine Learning & Big Data Enthusiast | Data Science Enthusiast
 
 I am a Computer Science undergraduate with hands-on experience in **Machine Learning**, **Big Data Analytics**, and **backend development**. I enjoy building data-driven systems, scalable pipelines, and AI-powered applications that solve real-world problems.
 
