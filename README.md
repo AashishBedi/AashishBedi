@@ -1,117 +1,90 @@
-# Hi, I'm Aashish Bedi 👋  
+# Hi, I'm Aashish Bedi 👋
 
-🎓 B.Tech Computer Science Student | Machine Learning & Big Data Enthusiast | Data Science Enthusiast
+AI/ML Engineer & Full-Stack Developer with hands-on experience building end-to-end intelligent systems — RAG architectures, Big Data pipelines, and ML microservices. Research accepted at 3 Springer-indexed conferences. Top-5 finish among 250+ teams at an international AI Hackathon. Seeking ML Engineering, AI Engineering, Data Science, or SDE roles.
 
-I am a Computer Science undergraduate with hands-on experience in **Machine Learning**, **Big Data Analytics**, and **backend development**. I enjoy building data-driven systems, scalable pipelines, and AI-powered applications that solve real-world problems.
-
----
-
-## 👨‍🎓 Education  
-
-**Bachelor of Technology (B.Tech) – Computer Science**  
-Lovely Professional University, Phagwara, Punjab  
-📅 Aug 2022 – Aug 2026  
+📍 Ludhiana, Punjab, India
+📧 aashishbedi0@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/aashishbedi/) • [Portfolio](https://codolio.com/profile/aashishbedi)
 
 ---
 
-## 🧠 Technical Skills  
+## 🛠 Tech Stack
 
-### 💻 Programming & Scripting  
-- Python  
-- SQL  
+**Languages**
+Python • Java • SQL
 
-### 🧩 Data Structures & Algorithms  
-- Strong understanding of core data structures  
-- Algorithmic problem-solving and complexity analysis  
+**AI/ML**
+Machine Learning • NLP • RAG • LLMs • Scikit-Learn • Pandas • NumPy • sentence-transformers • ChromaDB • Groq/Llama
 
-### 🤖 Machine Learning & AI  
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Predictive Modeling  
-- Classification Algorithms  
+**Backend**
+Spring Boot • FastAPI • REST APIs • Microservices • JWT • Spring Security • Redis • PostgreSQL • MongoDB
 
-**Libraries & Frameworks:**  
-- Scikit-learn  
-- Matplotlib
-- Seaborn
-- Pandas  
-- NumPy  
+**Big Data**
+Apache Spark • Hadoop • Hive • HBase • ETL Pipelines
 
-### 📊 Big Data & Analytics  
-- Apache Hadoop  
-- Apache Spark  
-- Apache Hive  
-- HBase  
-- Tableau  
-- Data Analytics & Distributed Computing  
+**Frontend**
+React.js • Tailwind CSS • Axios
 
-### 🛠 Tools & Technologies  
-- Git & GitHub  
-- Big Data Pipelines  
-- ETL Workflows  
+**DevOps**
+Docker • Docker Compose • GitHub Actions CI/CD • Git
 
 ---
 
-## 💼 Experience  
+## 🚀 Projects
 
-### 🔹 Summer Internship – Big Data Analytics  
-**Lovely Professional University** (Remote)  
-📅 May 2024 – July 2024  
+### HireAI — AI-Powered Job Portal
+**Java • Spring Boot • FastAPI • React • PostgreSQL • Redis • Docker • GitHub Actions**
 
-- Engineered scalable **big data pipelines** using Hadoop, Spark, Hive, and HBase to process multi-terabyte datasets  
-- Built **ETL workflows** using Apache Pig and Hive, improving query performance through partitioning and indexing  
-- Worked on real-world, production-like big data projects using **MapReduce and distributed computing paradigms**  
-- Strengthened understanding of cluster computing and large-scale data processing  
+Full-stack job portal with AI resume-to-JD matching using sentence-transformers. Features JWT authentication with RBAC, PDF resume parsing, cosine similarity scoring, Redis caching, email notifications, and CI/CD via GitHub Actions.
+
+🔗 [GitHub](https://github.com/AashishBedi/HireAI)
 
 ---
 
-## 🚀 Projects  
+### EduVerse AI — Hybrid RAG Learning Platform
+**Python • FastAPI • RAG • ChromaDB • SQLite • Groq/Llama**
 
-### 🔸 Autism Predictor  
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Machine Learning  
+Intent-aware hybrid RAG pipeline with ChromaDB and SQLite routing. Improved AI response relevance by 40% over keyword-search baselines. ~2s end-to-end latency. Research accepted at 3 Springer-indexed conferences including ICIDSSD 2026.
 
-- Built an end-to-end **ML classification model** achieving **92% accuracy**  
-- Used ensemble techniques including **Random Forest** and **Gradient Boosting**  
-- Designed a robust data preprocessing pipeline (missing values, scaling, encoding)  
-- Deployed a web application for real-time predictions with confidence scores and feature importance  
+🔗 [GitHub](https://github.com/AashishBedi/EduVerse-AI)
 
 ---
 
-### 🔸 Language Identification & Translator (Polyglot)  
-**Tech Stack:** Python, NLP, Scikit-learn  
+### Mitti Mantra — Precision Agriculture AI Platform
+**Python • Scikit-Learn • FastAPI • React • REST APIs**
 
-- Developed an NLP system identifying **20+ languages with 95% accuracy**  
-- Implemented **TF-IDF vectorization** and **Support Vector Machines (SVM)**  
-- Integrated Google Translate API for multilingual translation  
-- Used n-grams and character-level embeddings to improve model robustness    
+ML microservices platform for crop recommendation, fertiliser optimisation, and real-time disease detection. Built in under 2 weeks. JWT-authenticated FastAPI backend with React mobile frontend. Top-5 finish (250+ teams) at AI for Sustainability Hackathon, Canadian University UAE.
 
----
-
-## 📜 Certifications  
-
-- **Complete Machine Learning & Data Science** – GeeksforGeeks (Sep 2025)  
-- **Python Full Stack Development** – CipherSchools (Jul 2025)  
+🔗 [GitHub](https://github.com/AashishBedi/Mitti-Mantra)
 
 ---
 
-## 🎯 Areas of Interest  
+## 💼 Experience
 
-- Machine Learning & AI Systems  
-- Big Data Engineering  
-- Scalable Data Pipelines  
-- Applied NLP  
+**Big Data & Analytics Engineer (Intern)** — Lovely Professional University
+*May 2024 – Jul 2024*
 
----
-
-## 📫 Connect With Me  
-
-- 📍 Ludhiana, Punjab, India  
-- 🔗 GitHub: https://github.com/AashishBedi  
-- 💼 LinkedIn: https://www.linkedin.com/in/aashishbedi/  
-- 🌐 Portfolio: https://codolio.com/profile/aashishbedi 
-- 📧 Email: aashishbedi0@gmail.com  
+- Engineered Apache Spark and Hive ETL pipelines, reducing data-to-insight latency by 20%
+- Integrated HBase for sub-second retrieval of high-frequency metrics
+- Applied EDA and trained Scikit-Learn forecasting models, improving predictive accuracy by 15%
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me if you're interested in collaboration or opportunities.*  
+## 🏆 Achievements
+
+- **Research:** "RoadMap: EduVerse AI Powered Learning Framework" accepted at ICIDSSD 2026 (Springer-indexed), Jamia Hamdard, Delhi — and at 2 additional Springer-indexed conferences
+- **Hackathon:** Top-5 among 250+ teams, AI for Sustainability Hackathon (Canadian University, UAE) — Software Lead for Mitti Mantra
+
+---
+
+## 🎓 Education
+
+**B.Tech, Computer Science & Engineering** — Lovely Professional University, Phagwara
+*Aug 2022 – Jun 2026 | CGPA: 7.24*
+
+---
+
+## 📊 GitHub Stats
+
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishBedi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishBedi&layout=compact&theme=tokyonight)
