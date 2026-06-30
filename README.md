@@ -1,90 +1,53 @@
-# Hi, I'm Aashish Bedi 👋
+# Hi there, I'm Aashish Bedi 👋
 
-AI/ML Engineer & Full-Stack Developer with hands-on experience building end-to-end intelligent systems — RAG architectures, Big Data pipelines, and ML microservices. Research accepted at 3 Springer-indexed conferences. Top-5 finish among 250+ teams at an international AI Hackathon. Seeking ML Engineering, AI Engineering, Data Science, or SDE roles.
+I am a Computer Science graduate specializing in backend engineering and full-stack web development. I have strong hands-on experience building scalable backend systems, designing robust REST APIs, and implementing secure role-based access architectures. 
 
-📍 Ludhiana, Punjab, India
-📧 aashishbedi0@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/aashishbedi/) • [Portfolio](https://codolio.com/profile/aashishbedi)
+Beyond engineering, I am passionate about research in AI/Retrieval-Augmented Generation (RAG), with 4 papers accepted at peer-reviewed international conferences (including IEEE ACROSET 2026).
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Technical Skills
 
-**Languages**
-Python • Java • SQL
-
-**AI/ML**
-Machine Learning • NLP • RAG • LLMs • Scikit-Learn • Pandas • NumPy • sentence-transformers • ChromaDB • Groq/Llama
-
-**Backend**
-Spring Boot • FastAPI • REST APIs • Microservices • JWT • Spring Security • Redis • PostgreSQL • MongoDB
-
-**Big Data**
-Apache Spark • Hadoop • Hive • HBase • ETL Pipelines
-
-**Frontend**
-React.js • Tailwind CSS • Axios
-
-**DevOps**
-Docker • Docker Compose • GitHub Actions CI/CD • Git
+* **Languages:** Java, Python, SQL, JavaScript
+* **Frameworks & Libraries:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, FastAPI, Django, Django REST Framework, React, Tailwind CSS
+* **Tools & Databases:** Docker, GitHub Actions, Git, Maven, Linux, Postman, PostgreSQL, MySQL, Redis, ChromaDB[cite: 1]
+* **Core Concepts:** Object-Oriented Programming (OOP), System Design, Microservices, REST APIs, JWT Authentication, Hybrid RAG[cite: 1]
 
 ---
 
-## 🚀 Projects
+### 🚀 Highlighted Projects
 
-### HireAI — AI-Powered Job Portal
-**Java • Spring Boot • FastAPI • React • PostgreSQL • Redis • Docker • GitHub Actions**
+#### 🌱 [MittiMantra](https://github.com/AashishBedi/Mittimantra) — Sustainable Agricultural Support System
+* Served as the **ML and Software Lead** to architect and deploy a predictive agricultural platform designed for ecological sustainability[cite: 1].
+* **Award-Winning Stack:** Developed as the core technical solution that secured a **Top-5 finish out of 250+ competing teams** globally[cite: 1].
+* Integrated data-driven logic to provide actionable insights for crop management and resource optimization[cite: 1].
 
-Full-stack job portal with AI resume-to-JD matching using sentence-transformers. Features JWT authentication with RBAC, PDF resume parsing, cosine similarity scoring, Redis caching, email notifications, and CI/CD via GitHub Actions.
+#### 🛍️ [GiftGallery](https://github.com/AashishBedi) — Full-Stack E-Commerce Platform
+* Engineered a production-ready e-commerce platform using **Spring Boot** and **React**[cite: 1].
+* Implemented secure role-based access control (RBAC) and custom JWT interceptors via **Spring Security**[cite: 1].
+* Integrated **Razorpay SDK** for secure transaction flows and **Cloudinary** for optimized media distribution[cite: 1].
 
-🔗 [GitHub](https://github.com/AashishBedi/HireAI)
+#### 💼 [HireAI](https://github.com/AashishBedi) — AI-Powered Job Portal
+* Engineered a dual-role job portal leveraging a **Spring Boot** REST backend and a **FastAPI** microservice for resume-scoring logic[cite: 1].
+* Containerized the complete application stack using **Docker Compose** and automated builds with **GitHub Actions**[cite: 1].
+* Swapped production architecture to an HTTP-based email API to successfully bypass network-level SMTP blocking[cite: 1].
 
----
-
-### EduVerse AI — Hybrid RAG Learning Platform
-**Python • FastAPI • RAG • ChromaDB • SQLite • Groq/Llama**
-
-Intent-aware hybrid RAG pipeline with ChromaDB and SQLite routing. Improved AI response relevance by 40% over keyword-search baselines. ~2s end-to-end latency. Research accepted at 3 Springer-indexed conferences including ICIDSSD 2026.
-
-🔗 [GitHub](https://github.com/AashishBedi/EduVerse-AI)
-
----
-
-### Mitti Mantra — Precision Agriculture AI Platform
-**Python • Scikit-Learn • FastAPI • React • REST APIs**
-
-ML microservices platform for crop recommendation, fertiliser optimisation, and real-time disease detection. Built in under 2 weeks. JWT-authenticated FastAPI backend with React mobile frontend. Top-5 finish (250+ teams) at AI for Sustainability Hackathon, Canadian University UAE.
-
-🔗 [GitHub](https://github.com/AashishBedi/Mitti-Mantra)
+#### 🎓 [EduVerse AI](https://github.com/AashishBedi) — AI-Powered Learning Framework
+* Designed a hybrid RAG pipeline routing user queries across **ChromaDB** vector stores and **MySQL** relational data, boosting contextual relevance by 40%[cite: 1].
+* Achieved ~2s end-to-end inference latency using Groq-hosted Llama models through a **FastAPI** backend[cite: 1].
+* The core technical framework was accepted for publication at **IEEE ACROSET 2026** and 3 Springer-indexed conferences[cite: 1].
 
 ---
 
-## 💼 Experience
+### 🏆 Accomplishments & Research
 
-**Big Data & Analytics Engineer (Intern)** — Lovely Professional University
-*May 2024 – Jul 2024*
-
-- Engineered Apache Spark and Hive ETL pipelines, reducing data-to-insight latency by 20%
-- Integrated HBase for sub-second retrieval of high-frequency metrics
-- Applied EDA and trained Scikit-Learn forecasting models, improving predictive accuracy by 15%
+* **Research:** Primary author of *"EduVerse AI: An Intent-Aware Hybrid Retrieval System for University Information Access"* (Accepted at **IEEE ACROSET 2026** / IEEE Xplore) and 3 other papers accepted at Springer-indexed venues[cite: 1].
+* **Hackathons:** Placed **Top-5 out of 250+ teams** at the *AI for Sustainability Hackathon* (Canadian University, UAE) acting as the ML/Software Engineering Lead[cite: 1].
 
 ---
 
-## 🏆 Achievements
+### 🌐 Let's Connect!
 
-- **Research:** "RoadMap: EduVerse AI Powered Learning Framework" accepted at ICIDSSD 2026 (Springer-indexed), Jamia Hamdard, Delhi — and at 2 additional Springer-indexed conferences
-- **Hackathon:** Top-5 among 250+ teams, AI for Sustainability Hackathon (Canadian University, UAE) — Software Lead for Mitti Mantra
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering** — Lovely Professional University, Phagwara
-*Aug 2022 – Jun 2026 | CGPA: 7.24*
-
----
-
-## 📊 GitHub Stats
-
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishBedi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishBedi&layout=compact&theme=tokyonight)
+* **Email:** aashishbedi0@gmail.com[cite: 1]
+* **LinkedIn:** [Your LinkedIn Profile URL][cite: 1]
+* **Portfolio:** [Your Portfolio Website URL][cite: 1]
