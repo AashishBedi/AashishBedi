@@ -1,95 +1,218 @@
-<h1 align="center">Hi 👋, I'm Aashish Bedi</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Building with Python, Java & JavaScript</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aashishbedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aashishbedi0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AashishBedi/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+# Hi, I'm Aashish Bedi 👋
 
----
+### Data Science • Machine Learning • AI Systems • Python Backend
 
-### 🚀 About Me
+I build **data-driven and AI-powered systems** — from model experimentation and retrieval pipelines to production-ready APIs.
 
-- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (2022 – 2026)
-- 💼 Currently a **Software Engineer Intern** at **MyDream Global**, building backend features and REST APIs for event management, participant onboarding, and content moderation
-- 🛠️ I love building full-stack products end-to-end — from database schema to UI
-- 🌱 Interested in RAG pipelines, system design, and scalable microservices
-- 📫 Reach me at **aashishbedi0@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashish_Bedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashishbedi/)
+[![Email](https://img.shields.io/badge/Email-aashishbedi0-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishbedi0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AashishBedi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AashishBedi)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+I'm a Computer Science graduate from **Lovely Professional University**, focused on **Data Science, Machine Learning and applied AI systems**.
 
-**Frameworks**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+My work sits at the intersection of **ML experimentation, retrieval systems and backend engineering**. I enjoy going beyond simply training a model — evaluating it properly, understanding why it works, integrating it into an application and building the APIs and data pipelines around it.
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Other**: REST APIs · Microservices · RAG · Unit Testing · Agile/Scrum · System Design · OOP
+- 🔬 Building and evaluating **Machine Learning & NLP systems**
+- 🧠 Exploring **RAG, semantic retrieval and reliable LLM applications**
+- 🐍 Primarily working with **Python, SQL, FastAPI and ML libraries**
+- 📊 Interested in **Data Science, ML Engineering and Applied AI**
+- ⚙️ Comfortable building backend systems around AI/ML workloads
+- 🎓 B.Tech CSE, Lovely Professional University — **2026**
 
 ---
 
-### 💼 Experience
+## ⭐ Featured Work
 
-**Software Engineer Intern — MyDream Global** · Apr 2026 – Present
-- Delivered 12+ production-ready backend features across event management, participant onboarding, and content moderation
-- Designed modular REST APIs and optimized database architecture with reusable service components
-- Improved application responsiveness by 40% by automating asynchronous workflows for notifications and background processing
-- Stack: Python, FastAPI, Next.js, React.js, TypeScript, PostgreSQL, Redis, Docker, Tailwind CSS
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 EduVerse
+**Reliable Educational Information Retrieval**
+
+Hybrid retrieval system combining **structured SQL retrieval + semantic vector search** to answer university-related queries while reducing hallucination.
+
+**Highlights**
+- 150-query evaluation benchmark
+- **90.8% end-to-end accuracy**
+- **93.4% retrieval accuracy**
+- Reduced hallucination to **5.0%**
+- Benchmarked against LLM-only, SQL-only and vector-only approaches
+- Research work contributed to an academic paper
+
+`Python` `SQL` `RAG` `ChromaDB` `Sentence Transformers` `FastAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌾 MittiMantra
+**Agricultural Decision Support System**
+
+ML-based agricultural assistant developed during the **AI for Sustainability Hackathon 2026**.
+
+**Highlights**
+- Crop recommendation across **22 crop classes**
+- Random Forest accuracy: **99.55%**
+- MobileNetV2 disease classifier: **97.39% validation accuracy**
+- Feature ablation & permutation importance analysis
+- Stratified evaluation and 5-fold cross-validation
+- **4th place among 250+ teams**
+
+`Python` `Scikit-learn` `TensorFlow` `Pandas` `Random Forest` `MobileNetV2`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Kartly
+**Hybrid Order Support Assistant**
+
+AI/backend system for answering e-commerce support queries using structured order data and policy retrieval.
+
+**Highlights**
+- Hybrid deterministic + semantic retrieval architecture
+- Persistent vector storage with **ChromaDB**
+- Policy ingestion, chunking and embeddings pipeline
+- Retrieval validation across **30 test queries**
+- Containerized development environment
+- Designed around reliable, grounded responses
+
+`Python` `FastAPI` `RAG` `ChromaDB` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 HireHub
+**Intelligent Job Portal**
+
+Job platform with an AI-powered resume-to-job matching pipeline and separate application/backend services.
+
+**Highlights**
+- Semantic resume-job matching
+- Hybrid semantic + keyword scoring
+- Dual-role authentication and authorization
+- FastAPI AI service
+- CI workflow with GitHub Actions
+
+`Python` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Featured Projects
+## 💼 Experience
 
-| Project | Description | Tech |
-|---|---|---|
-| **[GiftGallery](https://github.com/AashishBedi)** – E-Commerce Application | Full-stack e-commerce platform with a Node.js/Express API (avg response time <250ms), Prisma/PostgreSQL, JWT-based RBAC, Zod validation, Razorpay payments, and Cloudinary image hosting | React, Node.js, Express, TypeScript, PostgreSQL, Prisma, JWT, Docker |
-| **HireHub** – Intelligent Job Portal | Semantic resume-to-job matching engine (Spring Boot + FastAPI microservice) automating candidate ranking; dual-role JWT auth across 10+ endpoints supporting 100+ concurrent users; CI/CD via GitHub Actions with 3-minute build/deploy | Java, Spring Boot, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions |
-| **Eduverse** – Educational AI Assistant | Hybrid RAG pipeline for university chatbots achieving 90.8% end-to-end accuracy and reducing hallucination to 5.0%; unified chat routing & admin panel with ~2s latency; 85% integration test coverage | Python, Django, DRF, RAG, ChromaDB, MySQL, React, TailwindCSS |
+### Software Engineer Intern — MyDream Global
+**Mar 2026 – Sep 2026**
 
----
+Worked on production backend and third-party integrations for a social/event platform.
 
-### 🏆 Achievements
+- Built **12+ REST APIs** using FastAPI and MySQL
+- Developed Google OAuth, event management and participant registration workflows
+- Designed an **Instagram Business integration** using the Meta Graph API
+- Built asynchronous workflows for social engagement metrics synchronization
+- Worked with production APIs serving **500+ users**
+- Improved integration reliability and reduced manual analytics workflows
 
-- 🥇 **Top-5 Finish**, AI for Sustainability Hackathon (Canadian University, UAE) among 250+ teams — ML/Software Lead for **MittiMantra**, an AI-based agricultural support system for small-scale farmers
-- 🎪 Independently managed full event lifecycle — procurement, task planning, and volunteer coordination — for a beauty pageant client acquisition
-
----
-
-### 📜 Certificates
-
-- Software Engineer — HackerRank (Jun 2026)
-- Java — HackerRank (May 2026)
-- SQL — HackerRank (Apr 2026)
-- Complete Data Science and Machine Learning — GeeksforGeeks (Oct 2025)
+`Python` `FastAPI` `MySQL` `REST APIs` `Meta Graph API` `Git/GitHub`
 
 ---
 
-### 🎓 Education
+## 🧰 Technical Toolbox
 
-**Lovely Professional University**, Phagwara, Punjab
-B.Tech, Computer Science and Engineering — CGPA: 7.37 (Aug 2022 – Jun 2026)
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Data Science & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+`Machine Learning` `NLP` `RAG` `Vector Search` `Model Evaluation`
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Big Data & Analytics
+
+`Apache Hadoop` • `Apache Spark` • `HDFS` • `Hive` • `HBase` • `Pig`
+
+`Power BI` • `Tableau` • `Excel`
+
+</div>
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect or check out my repositories.</i></p>
+## 🏆 Highlights
+
+- 🥉 **4th place among 250+ teams** — AI for Sustainability Hackathon 2026
+- 📄 Built **EduVerse**, an evaluated hybrid retrieval system contributing to academic research
+- 🧠 Developed ML systems spanning **classification, computer vision, NLP and semantic retrieval**
+- ⚙️ Production experience building APIs and external platform integrations
+- 🎓 B.Tech in Computer Science & Engineering — Lovely Professional University
+
+---
+
+## 📚 Certifications
+
+- **Data Science 360 — Data Analytics, ML & AI** — GeeksforGeeks
+- **Python Fullstack** — CipherSchools
+- **Introduction to Machine Learning** — NPTEL
+- **Hadoop & Spark Masterclass** — Lovely Professional University
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AashishBedi&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishBedi&layout=compact&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AashishBedi&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems where **data, machine learning and software engineering meet.**
+
+Open to opportunities in **Data Science • Machine Learning • AI Engineering • Python Backend**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashishbedi/)
+
+</div>
